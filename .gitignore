@@ -1,0 +1,19 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Test files
+input.txt
+output.txt
+
+# VS Code settings
+.vscode/
+.vs/
+
+# Visual Studio files
+*.json
+*.sqlite
+slnx.sqlite
+ProjectSettings.json
+VSWorkspaceState.json
