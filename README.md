@@ -6,12 +6,15 @@ This repository contains my C++ programming practice as a BTech First Year stude
 ## What's Inside
 - **Learning-stage/** - Basic C++ learning done via  College wallah with programs
 
-## 🎓 What I've Learned So Far
-- ✅ Variables and constants
-- ✅ Data types (int, float, const)
-- ✅ Input/Output (cin, cout)
-- ✅ Basic arithmetic operations
-- ✅ File I/O setup for competitive programming
+## What I've Learned So Far
+✅ Variables and constants
+✅ Data types (int, float, const)
+✅ Input/Output (cin, cout)
+✅ Basic arithmetic operations
+✅ File I/O setup for competitive programming
+✅ Hierarchy of operators
+✅ Typecasting (into to float,char to int ,etc.)
+✅ Dealing with operators with floata and int
 
 ## Programs Completed
 ✅ Area of Circle  
