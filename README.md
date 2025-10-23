@@ -7,20 +7,26 @@ This repository contains my C++ programming practice as a BTech First Year stude
 - **Learning-stage/** - Basic C++ learning done via  College wallah with programs
 
 ## What I've Learned So Far
-✅ Variables and constants
-✅ Data types (int, float, const)
-✅ Input/Output (cin, cout)
-✅ Basic arithmetic operations
-✅ File I/O setup for competitive programming
-✅ Hierarchy of operators
-✅ Typecasting (into to float,char to int ,etc.)
-✅ Dealing with operators with floata and int
+
+- ✅ Variables and constants
+- ✅ Data types (int, float, double, char, bool)
+- ✅ Input/Output operations (cin, cout)
+- ✅ Arithmetic operations and expressions
+- ✅ File I/O setup for competitive programming (#ifndef ONLINE_JUDGE)
+- ✅ Operator precedence and associativity
+- ✅ Typecasting (int to float, char to int, implicit vs explicit)
+- ✅ Mixed-type arithmetic (operations with int and float)
+- ✅ Conditional statements (if, if-else, ternary operator)
 
 ## Programs Completed
-✅ Area of Circle  
-✅ Area of Square  
-✅ Float operations  
-✅ Simple Interest Calculator  
+
+- Area of Circle
+- Area of Square
+- Float operations
+- Simple Interest Calculator
+- Odd-Even Checker
+- Absolute value calculator
+- Rounding of Numbers (float to int conversion)
 
 ## Tech Stack
 - Language: C++
