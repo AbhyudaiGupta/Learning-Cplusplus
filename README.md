@@ -31,11 +31,17 @@ This repository contains my C++ programming practice as a BTech First Year stude
 - ✅ TeamComparison.cpp: Compares two teams ("Dominator" vs "Everule") and prints the winner based on their scores
 - ✅ 3numFight.cpp: Determines the largest among three numbers, handles all-equal and tie cases
 - ✅ SumOfNumbers.cpp: Sums `n` user-entered numbers
+- ✅ CheckFactorial.cpp: Calculates and prints the factorial of a given number (loop learnt from textbook)
 
-## Additional Achievements
+- ✅ CheckForLeapYear.cpp: Checks whether a given year is a leap year (practice conditional logic)
 
-- Solved 5 C++ questions on HackerRank (24 Oct 2025)
+## Additional Achievements ( Updated On: October 25, 2025 )
+
+- Solved 5 C++ questions on HackerRank
 - Consistently practicing coding on competitive programming platforms
+- Did additional revision today by re-solving classic problems (Factorial, Leap Year, Prime Check)
+- Maintained GitHub streak with meaningful daily coding
+- Practicing fundamentals for strong DSA and competitive programming prep
 
 
 ## Tech Stack
@@ -53,6 +59,6 @@ This repository contains my C++ programming practice as a BTech First Year stude
 
 ***
 
-Started: October 2025 | Last Updated: October 24, 2025 | Status: Learning 🚀
+Started: October 2025 | Last Updated: October 25, 2025 | Status: Learning 🚀
 
 ***
