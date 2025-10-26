@@ -35,11 +35,12 @@ This repository contains my C++ programming practice as a BTech First Year stude
 
 - ✅ CheckForLeapYear.cpp: Checks whether a given year is a leap year (practice conditional logic)
 
-## Additional Achievements ( Updated On: October 25, 2025 )
+## Additional Achievements ( Updated On: October 26, 2025 )
 
 - Solved 5 C++ questions on HackerRank
 - Consistently practicing coding on competitive programming platforms
-- Did additional revision today by re-solving classic problems (Factorial, Leap Year, Prime Check)
+- Explored the basics and future scope of Data Structures and Algorithms (DSA).Made notes on how DSA benefits problem-solving and coding interviews.
+- Solved several conceptual and practice problems from teacher's notes.Reflected on the importance of consistency in coding and learning
 - Maintained GitHub streak with meaningful daily coding
 - Practicing fundamentals for strong DSA and competitive programming prep
 
@@ -59,6 +60,6 @@ This repository contains my C++ programming practice as a BTech First Year stude
 
 ***
 
-Started: October 2025 | Last Updated: October 25, 2025 | Status: Learning 🚀
+Started: October 2025 | Last Updated: October 26, 2025 | Status: Learning 🚀
 
 ***
