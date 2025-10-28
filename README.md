@@ -17,6 +17,8 @@ This repository contains my C++ programming practice as a BTech First Year stude
 - ✅ Typecasting (int to float, char to int, implicit vs explicit)
 - ✅ Mixed-type arithmetic (operations with int and float)
 - ✅ Conditional statements (if, if-else, else if, ternary operator)
+- ✅ Using ternary operator for compact checks
+- ✅ Basic algorithms for palindrome, digit operations, and number comparison
 
 ## Programs Completed
 
@@ -32,18 +34,22 @@ This repository contains my C++ programming practice as a BTech First Year stude
 - ✅ 3numFight.cpp: Determines the largest among three numbers, handles all-equal and tie cases
 - ✅ SumOfNumbers.cpp: Sums `n` user-entered numbers
 - ✅ CheckFactorial.cpp: Calculates and prints the factorial of a given number (loop learnt from textbook)
-
 - ✅ CheckForLeapYear.cpp: Checks whether a given year is a leap year (practice conditional logic)
+- ✅ LargestOfThree.cpp: Determines the largest among three numbers.
+- ✅ Palindrome.cpp: Checks if a 4-digit number is a palindrome using digit extraction and the ternary operator.
+- ✅ SalaryCalculation.cpp: Calculates salary or related values (based on name).
+- ✅ SumOfDigits.cpp: Sums the digits of a number (likely digit extraction and arithmetic).
+- ✅ SwappingOfTwoNumbers.cpp: Implements both classic and temp-variable-free swapping methods.
 
 ## Additional Achievements ( Updated On: October 26, 2025 )
 
-- Solved 5 C++ questions on HackerRank
+- Solved 15 C++ questions on HackerRank
 - Consistently practicing coding on competitive programming platforms
 - Explored the basics and future scope of Data Structures and Algorithms (DSA).Made notes on how DSA benefits problem-solving and coding interviews.
 - Solved several conceptual and practice problems from teacher's notes.Reflected on the importance of consistency in coding and learning
-- Maintained GitHub streak with meaningful daily coding
+- - Streak reset on 27 Sept, but my learning continues! Restarted daily practice and pushing code regularly.
+- practiced programs on number logic (palindrome, digit sum, swapping, etc.)
 - Practicing fundamentals for strong DSA and competitive programming prep
-
 
 ## Tech Stack
 
@@ -60,6 +66,6 @@ This repository contains my C++ programming practice as a BTech First Year stude
 
 ***
 
-Started: October 2025 | Last Updated: October 26, 2025 | Status: Learning 🚀
+Started: October 2025 | Last Updated: October 28, 2025 | Status: Learning 🚀
 
 ***
