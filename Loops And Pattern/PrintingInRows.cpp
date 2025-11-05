@@ -24,5 +24,18 @@ int main()
         cout << endl;
         i++;
     }
+
+    // by for loop
+    int row1 = 1;
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = 1; j <= i; j++)
+        {
+            cout << row1 << " ";
+            row1++;
+        }
+        cout << endl;
+    }
+
     return 0;
 }

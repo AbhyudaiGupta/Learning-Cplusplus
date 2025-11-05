@@ -18,5 +18,15 @@ int main()
     }
     cout << fact << endl;
 
+    // by for loop
+    int n1;
+    cin >> n1;
+    int fact1 = 1;
+    for (; n1 > 0; n1--)
+    {
+        fact1 = fact1 * n1;
+    }
+    cout << fact1 << endl;
+
     return 0;
 }

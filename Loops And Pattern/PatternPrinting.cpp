@@ -8,7 +8,7 @@ int main()
     freopen("output.txt", "w", stdout);
 #endif
     // by while loop
-    int n ;
+    int n;
     cin >> n;
     int i = 1;
     while (i <= n)
@@ -21,6 +21,16 @@ int main()
         }
         cout << endl;
         i++;
+    }
+
+    // by for loop
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = 1; j <= i; j++)
+        {
+            cout << "* ";
+        }
+        cout << endl;
     }
 
     return 0;

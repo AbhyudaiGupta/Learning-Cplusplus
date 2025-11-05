@@ -43,6 +43,9 @@ This repository contains my C++ programming practice as a BTech First Year stude
   - SalaryCalculation.cpp: Calculates salary or related values (based on name)
   - SumOfDigits.cpp: Sums the digits of a number (digit extraction and arithmetic)
   - SwappingOfTwoNumbers.cpp: Swaps using both temp and temp-less logic
+  - SwitchtCalculator.cpp:Calculator made using switch
+  - BasicCalculator.cpp: Calculator made using ladder if else
+  - ConsonantOrVowel.cpp: Consonant or vowel finder (Switch used)
 
 - **Loops And Pattern**
   - EvenPrinting.cpp: Prints even numbers using loops
@@ -55,12 +58,12 @@ This repository contains my C++ programming practice as a BTech First Year stude
 
 ## Additional Achievements (Updated On: November 3, 2025)
 
-- Solved 20+ C++ questions on HackerRank/CodeChef
+- Solved 50+ C++ questions on HackerRank/CodeChef
 - Consistent coding practice on competitive programming platforms
-- Explored DSA concepts, career scope, and their benefits for interviews
+- Exploring DSA concepts, career scope, and their benefits for interviews
 - Solved several teacher’s note problems; focused on revision and consistency
 - Streak reset on 27 Sept; resumed daily practice and pushing code regularly
-- Practiced number logic (palindrome, digit sum, swapping, etc.)
+- Practiced Conditionals and for loop, made basic programs 
 - Deepened loop and pattern printing skills for exam and competitive prep
 
 ## Tech Stack
@@ -78,6 +81,6 @@ This repository contains my C++ programming practice as a BTech First Year stude
 
 ***
 
-Started: October 2025 | Last Updated: November 3, 2025 | Status: Learning and Practicing 🚀
+Started: October 2025 | Last Updated: November 6, 2025 | Status: Learning and Practicing 🚀
 
 ***

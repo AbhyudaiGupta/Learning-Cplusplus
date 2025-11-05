@@ -19,5 +19,17 @@ int main()
         n = n / 10;
     }
     cout << sum << endl;
+
+    // by for loop
+    int n;
+    cin >> n;
+    int sum = 0;
+    for (; n > 0; n = n / 10)
+    {
+        int digit = n % 10;
+        sum += digit;
+    }
+    cout << sum << endl;
+
     return 0;
 }
